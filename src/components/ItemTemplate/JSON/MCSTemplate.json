@@ -1,0 +1,47 @@
+[
+    {
+        "stem": {
+            "label": "Stem",
+            "required": true
+        },
+        "responses": [
+            {
+                "label": "Response 1",
+                "required": true,
+                "score": 0
+            },
+            {
+                "label": "Response 2",
+                "required": true,
+                "score": 0
+            },
+            {
+                "label": "Response 3",
+                "required": true,
+                "score": 0
+            },
+            {
+                "label": "Response 4",
+                "required": true,
+                "score": 0
+            },
+            {
+                "label": "Response 5",
+                "required": true,
+                "score": 0
+            }
+        ],
+        "tasktype":"mcs",
+        "clusterScore": true,
+        "rubric": false,
+        "scoring": true,
+        "scoringMethod": "correctOnly",
+        "feedback": true,
+        "rationale": true,
+        "numberOfResponse": 5,
+        "minimumChoicesRequired": 1,
+        "maximumChoicesRequired": 1,
+        "shuffle": false,
+        "expectedLines": null
+    }
+]

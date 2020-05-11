@@ -1,0 +1,28 @@
+[
+    {
+        "stem": {
+            "label": "Stem",
+            "required": true
+        },
+        "responses": [
+            {
+                "label": "Response 1",
+                "required": true
+            },
+            {
+                "label": "Response 2",
+                "required": true
+            }
+        ],
+        "tasktype":"true/false",
+        "rubric": false,
+        "scoring": true,
+        "scoringMethod": "correctOnly",
+        "feedback": true,
+        "rationale": true,
+        "numberOfResponse": 2,
+        "minimumChoicesRequired": 1,
+        "maximumChoicesRequired": 1,
+        "shuffle": false
+    }
+]

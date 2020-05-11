@@ -1,0 +1,90 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <h1
+        align="center"
+      >
+        Item Creation
+      </h1>
+      <hr
+        class="new"
+      />
+    </div>
+       
+    <b>
+      Task Type :
+    </b>
+     
+    <select
+      id="dropdown"
+    >
+      <option>
+        Select Task Type
+      </option>
+      <option
+        value="1"
+      >
+        Multiple Choice - Keyed
+      </option>
+      <option
+        value="2"
+      >
+        True/False
+      </option>
+      <option
+        value="3"
+      >
+        Multiple Choice - Scaled
+      </option>
+      <option
+        value="4"
+      >
+        Multiple Choice - Multiple Selection
+      </option>
+      <option
+        value="5"
+      >
+        Multi-Part
+      </option>
+    </select>
+          
+    <b>
+      Task Sub-Type :
+    </b>
+     
+    <select
+      disabled=""
+      id="dropdown"
+    >
+      <option>
+        Select Task Sub-Type
+      </option>
+      <option
+        value=""
+      />
+      <option
+        value=""
+      />
+      <option
+        value=""
+      />
+      <option
+        value=""
+      />
+      <option
+        value=""
+      />
+    </select>
+    <hr />
+    <style>
+      .tab {position:absolute;left:750px; } 
+    </style>
+    <style>
+      .new {border: 2px solid green; } 
+    </style>
+  </div>
+</DocumentFragment>
+`;

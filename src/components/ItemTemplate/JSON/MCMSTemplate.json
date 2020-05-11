@@ -1,0 +1,49 @@
+[
+    {
+        "stem": {
+            "label": "Stem",
+            "required": true
+        },
+        "responses": [
+            {
+                "label": "Response 1",
+                "required": true
+            },
+            {
+                "label": "Response 2",
+                "required": true
+            },
+            {
+                "label": "Response 3",
+                "required": true
+            },
+            {
+                "label": "Response 4",
+                "required": true
+            },
+            {
+                "label": "Response 5",
+                "required": true
+            }
+        ],
+        "tasktype":"mcms",
+        "clusterScore": true,
+        "rubric": false,
+        "scoring": true,
+        "scoringMethod": [
+            "correctOnly",
+            "multiTrueFalse",
+            "partialCredit",
+            "partialQuota",
+            "partialQuotaCollapsed",
+            "subtractiveModel"
+        ],
+        "feedback": true,
+        "rationale": true,
+        "numberOfResponse": 5,
+        "minimumChoicesRequired": 1,
+        "maximumChoicesRequired": 5,
+        "shuffle": false,
+        "expectedLines": null
+    }
+]

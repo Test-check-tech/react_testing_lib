@@ -10,7 +10,7 @@
     "ckeditor4-react": "^1.1.0",
     "nyc": "^15.0.1",
     "path": "^0.12.7",
-    "properties-reader": "^1.0.0",
+    "properties-reader": "^2.2.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "^5.1.2",
